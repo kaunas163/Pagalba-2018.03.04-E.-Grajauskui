@@ -1,0 +1,10 @@
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\bin\Debug\Pagalba_2018._03._04_E.Grajauskui.exe.config
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\bin\Debug\Pagalba_2018._03._04_E.Grajauskui.exe
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\bin\Debug\Pagalba_2018._03._04_E.Grajauskui.pdb
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\obj\Debug\Pagalba 2018.03.04 E. Grajauskui.csprojResolveAssemblyReference.cache
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\obj\Debug\Pagalba_2018._03._04_E.Grajauskui.Form1.resources
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\obj\Debug\Pagalba_2018._03._04_E.Grajauskui.Properties.Resources.resources
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\obj\Debug\Pagalba 2018.03.04 E. Grajauskui.csproj.GenerateResource.Cache
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\obj\Debug\Pagalba 2018.03.04 E. Grajauskui.csproj.CoreCompileInputs.cache
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\obj\Debug\Pagalba_2018._03._04_E.Grajauskui.exe
+C:\Users\ievaj\Desktop\pagalba\Pagalba 2018.03.04 E. Grajauskui\Pagalba 2018.03.04 E. Grajauskui\obj\Debug\Pagalba_2018._03._04_E.Grajauskui.pdb
